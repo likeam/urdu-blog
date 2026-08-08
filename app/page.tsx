@@ -120,7 +120,7 @@ export default function HomePage() {
             سب دیکھیں
           </a>
         </div>
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 md:gap-8">
           {featured.map((blog, i) => (
             <FlipCard key={blog._id || blog.id} blog={blog} index={i} />
           ))}
