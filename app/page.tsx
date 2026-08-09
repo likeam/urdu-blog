@@ -108,7 +108,7 @@ export default function HomePage() {
       </section>
 
       {/* Featured */}
-      <section className="py-12 md:py-18 px-4 max-w-7xl mx-auto">
+      <section className="py-12 md:py-18 px-4 max-w-8xl mx-auto">
         <div className="flex items-center justify-between mb-8 md:mb-12">
           <h2 className="text-2xl md:text-3xl font-bold text-[#2c1810]">
             <span className="text-[#8b5e3c]">✦</span> نمایاں بلاگز
