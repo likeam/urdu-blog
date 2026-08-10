@@ -58,7 +58,7 @@ export default function FlipCard({ blog, index = 0 }) {
         </div>
         {/* Back */}
         <div className="flip-card-back">
-          <div className="flex items-center gap-2 text-sm text-[#8a7a6a] mb-1">
+          <div className="flex items-center gap-2 text-sm text-[#8a7a6a] mb-2">
             <span>{getCategoryEmoji(blog.category)}</span>
             <span>{blog.category}</span>
             <span className="w-1 h-1 bg-[#d4a373] rounded-full"></span>
