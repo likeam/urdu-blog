@@ -4,7 +4,7 @@ export default function BlogList({ blogs }) {
   if (blogs.length === 0) {
     return (
       <div className="text-center py-12">
-        <p className="text-4xl mb-4">🔍</p>
+        <p className="text-5xl mb-4">🔍</p>
         <p className="text-[#5a4a3a] text-lg">کوئی بلاگ نہیں ملا</p>
       </div>
     );
