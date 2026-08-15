@@ -226,7 +226,7 @@ export default function AdminDashboard() {
               />
             </div>
           </div>
-          {message && <p className="mt-3 text-green-600">{message}</p>}
+          {message && <p className="mt-4 text-green-600">{message}</p>}
           <button type="submit" className="admin-btn mt-4" disabled={loading}>
             {loading ? "شائع ہو رہا ہے..." : "بلاگ شائع کریں"}
           </button>
