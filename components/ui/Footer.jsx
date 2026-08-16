@@ -24,7 +24,7 @@ export default function Footer() {
           <div className="md:col-span-2">
             <Link
               href="/"
-              className="text-2xl font-bold flex items-center gap-2 text-white"
+              className="text-2xl font-bold flex items-center gap-3 text-white"
             >
               <span className="text-[#d4a373]">✦</span> اردو بلاگ{" "}
               <span className="text-[#d4a373]">✦</span>
