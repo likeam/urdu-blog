@@ -40,7 +40,7 @@ export default function VideoSection({ blogs }) {
                 </video>
               )}
             </div>
-            <div className="p-4">
+            <div className="p-5">
               <h3 className="font-bold text-lg text-[#2c1810]">{blog.title}</h3>
               <p className="text-sm text-[#5a4a3a]">{blog.excerpt}</p>
               <a
