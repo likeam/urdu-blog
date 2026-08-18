@@ -8,7 +8,7 @@ export default function VideoSection({ blogs }) {
 
   return (
     <section
-      className="py-8 md:py-16 px-4 max-w-7xl mx-auto border-t border-[#e8ddd0]/60"
+      className="py-8 md:py-16 px-4 max-w-6xl mx-auto border-t border-[#e8ddd0]/60"
       id="videos"
     >
       <h2 className="text-2xl md:text-3xl font-bold text-[#2c1810] mb-8 text-center">
