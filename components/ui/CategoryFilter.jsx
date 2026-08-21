@@ -2,7 +2,7 @@ import { getCategoryEmoji } from "@/lib/utils";
 
 export default function CategoryFilter({ categories, selected, onSelect }) {
   return (
-    <div className="flex flex-wrap items-center justify-center gap-3">
+    <div className="flex flex-wrap items-center justify-center gap-4">
       {categories.map((cat) => (
         <button
           key={cat}
