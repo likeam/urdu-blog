@@ -29,7 +29,7 @@ export default function Footer() {
               <span className="text-[#d4a373]">✦</span> اردو بلاگ{" "}
               <span className="text-[#d4a373]">✦</span>
             </Link>
-            <p className="mt-3 text-white/60 text-sm leading-relaxed max-w-sm">
+            <p className="mt-3 text-white/80 text-sm leading-relaxed max-w-sm">
               اردو زبان میں معیاری، مستند اور دلچسپ مواد۔ علم، ثقافت، اور
               معلومات کا ایک نیا سفر۔
             </p>
